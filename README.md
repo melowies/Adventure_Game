@@ -26,7 +26,7 @@ Players can choose from four different hero classes:
 3. **Warrior**: Strong and resilient, the Warrior specializes in close-quarters combat.
 4. **Assassin**: Stealthy and deadly, the Assassin strikes from the shadows with precision.
 
-Each hero has unique attributes, abilities, and starting equipment, providing different playstyles and strategies.
+Each hero has unique attributes, abilities.
 
 ### Starting the Journey
 
